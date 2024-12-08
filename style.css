@@ -80,6 +80,7 @@
 .justified {
     text-align: justify;
     color: hsl(0, 0%, 100%);
+    padding: 10px 
 }
 
 .section p {
